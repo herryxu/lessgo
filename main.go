@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	less "lessgo/less/day5"
+	less "lessgo/less/day7"
 )
 
 func onlyForV2() less.HandlerFunc {
